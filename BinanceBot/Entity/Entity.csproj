@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Binance.Net">
+      <HintPath>..\..\..\..\.nuget\packages\binance.net\7.2.7\lib\netstandard2.1\Binance.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="Skender.Stock.Indicators">
+      <HintPath>..\..\..\..\.nuget\packages\skender.stock.indicators\1.21.0\lib\net5.0\Skender.Stock.Indicators.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

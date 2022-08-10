@@ -1,0 +1,7 @@
+{
+  "ApiKey": "****",
+  "ApiSecret": "***",
+  "SQLServerName": "(LocalDb)//MSSQLServer",
+  "YerelPara": "TRY",
+  "BorsaPara": "USDT"
+}

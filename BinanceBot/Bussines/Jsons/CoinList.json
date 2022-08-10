@@ -1,0 +1,1703 @@
+[
+  {
+    "Isim:": "Bitcoin",
+    "Sembol": "BTC",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png"
+  },
+  {
+    "Isim:": "Fantom",
+    "Sembol": "FTM",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3513.png"
+  },
+  {
+    "Isim:": "Ethereum",
+    "Sembol": "ETH",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+  },
+  {
+    "Isim:": "Shiba Inu",
+    "Sembol": "SHIB",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png"
+  },
+  {
+    "Isim:": "Polygon",
+    "Sembol": "MATIC",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png"
+  },
+  {
+    "Isim:": "XRP",
+    "Sembol": "XRP",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png"
+  },
+  {
+    "Isim:": "NEAR Protocol",
+    "Sembol": "NEAR",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6535.png"
+  },
+  {
+    "Isim:": "Binance USD",
+    "Sembol": "BUSD",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png"
+  },
+  {
+    "Isim:": "Filecoin",
+    "Sembol": "FIL",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png"
+  },
+  {
+    "Isim:": "Litecoin",
+    "Sembol": "LTC",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png"
+  },
+  {
+    "Isim:": "BNB",
+    "Sembol": "BNB",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
+  },
+  {
+    "Isim:": "Gala",
+    "Sembol": "GALA",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7080.png"
+  },
+  {
+    "Isim:": "Cardano",
+    "Sembol": "ADA",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png"
+  },
+  {
+    "Isim:": "Smooth Love Potion",
+    "Sembol": "SLP",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5824.png"
+  },
+  {
+    "Isim:": "The Sandbox",
+    "Sembol": "SAND",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6210.png"
+  },
+  {
+    "Isim:": "NULS",
+    "Sembol": "NULS",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2092.png"
+  },
+  {
+    "Isim:": "Axie Infinity",
+    "Sembol": "AXS",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6783.png"
+  },
+  {
+    "Isim:": "Solana",
+    "Sembol": "SOL",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png"
+  },
+
+  {
+    "Isim:": "Decentraland",
+    "Sembol": "MANA",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1966.png"
+  },
+  {
+    "Isim:": "USD Coin",
+    "Sembol": "USDC",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+  },
+  {
+    "Isim:": "Polkadot",
+    "Sembol": "DOT",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png"
+  },
+  {
+    "Isim:": "Avalanche",
+    "Sembol": "AVAX",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png"
+  },
+  {
+    "Isim:": "Dogecoin",
+    "Sembol": "DOGE",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png"
+  },
+  {
+    "Isim:": "Terra",
+    "Sembol": "LUNA",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4172.png"
+  },
+  {
+    "Isim:": "Cosmos",
+    "Sembol": "ATOM",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png"
+  },
+  {
+    "Isim:": "ConstitutionDAO",
+    "Sembol": "PEOPLE",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/14806.png"
+  },
+  {
+    "Isim:": "IoTeX",
+    "Sembol": "IOTX",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2777.png"
+  },
+  {
+    "Isim:": "Keep Network",
+    "Sembol": "KEEP",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5566.png"
+  },
+  {
+    "Isim:": "TRON",
+    "Sembol": "TRX",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png"
+  },
+  {
+    "Isim:": "Alchemy Pay",
+    "Sembol": "ACH",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6958.png"
+  },
+  {
+    "Isim:": "Chainlink",
+    "Sembol": "LINK",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png"
+  },
+  {
+    "Isim:": "Ethereum Classic",
+    "Sembol": "ETC",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1321.png"
+  },
+  {
+    "Isim:": "Loopring",
+    "Sembol": "LRC",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1934.png"
+  },
+  {
+    "Isim:": "Oasis Network",
+    "Sembol": "ROSE",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7653.png"
+  },
+  {
+    "Isim:": "dYdX",
+    "Sembol": "DYDX",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11156.png"
+  },
+  {
+    "Isim:": "Tezos",
+    "Sembol": "XTZ",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png"
+  },
+  {
+    "Isim:": "Theta Network",
+    "Sembol": "THETA",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2416.png"
+  },
+  {
+    "Isim:": "TrueUSD",
+    "Sembol": "TUSD",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2563.png"
+  },
+  {
+    "Isim:": "TerraUSD",
+    "Sembol": "UST",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7129.png"
+  },
+  {
+    "Isim:": "Internet Computer",
+    "Sembol": "ICP",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8916.png"
+  },
+  {
+    "Isim:": "Harmony",
+    "Sembol": "ONE",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3945.png"
+  },
+  {
+    "Isim:": "MyNeighborAlice",
+    "Sembol": "ALICE",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8766.png"
+  },
+  {
+    "Isim:": "GXChain",
+    "Sembol": "GXS",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1750.png"
+  },
+  {
+    "Isim:": "Curve DAO Token",
+    "Sembol": "CRV",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6538.png"
+  },
+  {
+    "Isim:": "Flow",
+    "Sembol": "FLOW",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4558.png"
+  },
+  {
+    "Isim:": "Zcash",
+    "Sembol": "ZEC",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1437.png"
+  },
+  {
+    "Isim:": "OMG Network",
+    "Sembol": "OMG",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1808.png"
+  },
+  {
+    "Isim:": "VeChain",
+    "Sembol": "VET",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3077.png"
+  },
+  {
+    "Isim:": "Elrond",
+    "Sembol": "EGLD",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6892.png"
+  },
+  {
+    "Isim:": "Algorand",
+    "Sembol": "ALGO",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4030.png"
+  },
+  {
+    "Isim:": "Kava",
+    "Sembol": "KAVA",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4846.png"
+  },
+  {
+    "Isim:": "IDEX",
+    "Sembol": "IDEX",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3928.png"
+  },
+  {
+    "Isim:": "Chromia",
+    "Sembol": "CHR",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3978.png"
+  },
+  {
+    "Isim:": "Bitcoin Cash",
+    "Sembol": "BCH",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png"
+  },
+  {
+    "Isim:": "EOS",
+    "Sembol": "EOS",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png"
+  },
+  {
+    "Isim:": "Sun (New)",
+    "Sembol": "SUN",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/10529.png"
+  },
+  {
+    "Isim:": "Mines of Dalarnia",
+    "Sembol": "DAR",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11374.png"
+  },
+  {
+    "Isim:": "Alien Worlds",
+    "Sembol": "TLM",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9119.png"
+  },
+  {
+    "Isim:": "Euro",
+    "Sembol": "EUR",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2790.png"
+  },
+  {
+    "Isim:": "WINkLink",
+    "Sembol": "WIN",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4206.png"
+  },
+  {
+    "Isim:": "Ethereum Name Service",
+    "Sembol": "ENS",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/13855.png"
+  },
+  {
+    "Isim:": "Enjin Coin",
+    "Sembol": "ENJ",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2130.png"
+  },
+  {
+    "Isim:": "Cortex",
+    "Sembol": "CTXC",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2638.png"
+  },
+  {
+    "Isim:": "Stellar",
+    "Sembol": "XLM",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/512.png"
+  },
+  {
+    "Isim:": "Immutable X",
+    "Sembol": "IMX",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/10603.png"
+  },
+  {
+    "Isim:": "PancakeSwap",
+    "Sembol": "CAKE",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7186.png"
+  },
+  {
+    "Isim:": "Uniswap",
+    "Sembol": "UNI",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png"
+  },
+  {
+    "Isim:": "Request",
+    "Sembol": "REQ",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2071.png"
+  },
+  {
+    "Isim:": "SushiSwap",
+    "Sembol": "SUSHI",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6758.png"
+  },
+  {
+    "Isim:": "IOTA",
+    "Sembol": "IOTA",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1720.png"
+  },
+  {
+    "Isim:": "Holo",
+    "Sembol": "HOT",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2682.png"
+  },
+  {
+    "Isim:": "SuperFarm",
+    "Sembol": "SUPER",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8290.png"
+  },
+  {
+    "Isim:": "Chiliz",
+    "Sembol": "CHZ",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4066.png"
+  },
+  {
+    "Isim:": "BENQI",
+    "Sembol": "QI",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9288.png"
+  },
+  {
+    "Isim:": "Dent",
+    "Sembol": "DENT",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1886.png"
+  },
+  {
+    "Isim:": "Waves",
+    "Sembol": "WAVES",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1274.png"
+  },
+  {
+    "Isim:": "FTX Token",
+    "Sembol": "FTT",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4195.png"
+  },
+  {
+    "Isim:": "Arweave",
+    "Sembol": "AR",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5632.png"
+  },
+  {
+    "Isim:": "Aave",
+    "Sembol": "AAVE",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7278.png"
+  },
+  {
+    "Isim:": "Spell Token",
+    "Sembol": "SPELL",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11289.png"
+  },
+  {
+    "Isim:": "JUST",
+    "Sembol": "JST",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5488.png"
+  },
+  {
+    "Isim:": "Celer Network",
+    "Sembol": "CELR",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3814.png"
+  },
+  {
+    "Isim:": "The Graph",
+    "Sembol": "GRT",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6719.png"
+  },
+  {
+    "Isim:": "Vulcan Forged PYR",
+    "Sembol": "PYR",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9308.png"
+  },
+  {
+    "Isim:": "Contentos",
+    "Sembol": "COS",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4036.png"
+  },
+  {
+    "Isim:": "Celo",
+    "Sembol": "CELO",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5567.png"
+  },
+  {
+    "Isim:": "JasmyCoin",
+    "Sembol": "JASMY",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8425.png"
+  },
+  {
+    "Isim:": "Ooki Protocol",
+    "Sembol": "OOKI",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/16434.png"
+  },
+  {
+    "Isim:": "Dusk Network",
+    "Sembol": "DUSK",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4092.png"
+  },
+  {
+    "Isim:": "Qtum",
+    "Sembol": "QTUM",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1684.png"
+  },
+  {
+    "Isim:": "THORChain",
+    "Sembol": "RUNE",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4157.png"
+  },
+  {
+    "Isim:": "Aragon",
+    "Sembol": "ANT",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1680.png"
+  },
+  {
+    "Isim:": "NuCypher",
+    "Sembol": "NU",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4761.png"
+  },
+  {
+    "Isim:": "WOO Network",
+    "Sembol": "WOO",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7501.png"
+  },
+  {
+    "Isim:": "Paris Saint-Germain Fan Token",
+    "Sembol": "PSG",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5226.png"
+  },
+  {
+    "Isim:": "Biconomy",
+    "Sembol": "BICO",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9543.png"
+  },
+  {
+    "Isim:": "Monero",
+    "Sembol": "XMR",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/328.png"
+  },
+  {
+    "Isim:": "MOBOX",
+    "Sembol": "MBOX",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9175.png"
+  },
+  {
+    "Isim:": "Australian Dollar",
+    "Sembol": "AUD",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2782.png"
+  },
+  {
+    "Isim:": "ARPA Chain",
+    "Sembol": "ARPA",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4039.png"
+  },
+  {
+    "Isim:": "League of Kingdoms Arena",
+    "Sembol": "LOKA",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/17145.png"
+  },
+  {
+    "Isim:": "Dash",
+    "Sembol": "DASH",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/131.png"
+  },
+  {
+    "Isim:": "eCash",
+    "Sembol": "XEC",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/10791.png"
+  },
+  {
+    "Isim:": "1inch Network",
+    "Sembol": "1INCH",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8104.png"
+  },
+  {
+    "Isim:": "Hedera",
+    "Sembol": "HBAR",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4642.png"
+  },
+  {
+    "Isim:": "Swipe",
+    "Sembol": "SXP",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4279.png"
+  },
+  {
+    "Isim:": "Cocos-BCX",
+    "Sembol": "COCOS",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4275.png"
+  },
+  {
+    "Isim:": "Ontology",
+    "Sembol": "ONT",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2566.png"
+  },
+  {
+    "Isim:": "Basic Attention Token",
+    "Sembol": "BAT",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1697.png"
+  },
+  {
+    "Isim:": "NKN",
+    "Sembol": "NKN",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2780.png"
+  },
+  {
+    "Isim:": "XRPDOWN",
+    "Sembol": "XRPDOWN",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7002.png"
+  },
+  {
+    "Isim:": "Aion",
+    "Sembol": "AION",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2062.png"
+  },
+  {
+    "Isim:": "Coin98",
+    "Sembol": "C98",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/10903.png"
+  },
+  {
+    "Isim:": "Render Token",
+    "Sembol": "RNDR",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5690.png"
+  },
+  {
+    "Isim:": "Kyber Network Crystal v2",
+    "Sembol": "KNC",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9444.png"
+  },
+  {
+    "Isim:": "Acala Token",
+    "Sembol": "ACA",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6756.png"
+  },
+  {
+    "Isim:": "Fetch.ai",
+    "Sembol": "FET",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3773.png"
+  },
+  {
+    "Isim:": "S.S. Lazio Fan Token",
+    "Sembol": "LAZIO",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/12687.png"
+  },
+  {
+    "Isim:": "Compound",
+    "Sembol": "COMP",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5692.png"
+  },
+  {
+    "Isim:": "Syscoin",
+    "Sembol": "SYS",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/541.png"
+  },
+  {
+    "Isim:": "Klaytn",
+    "Sembol": "KLAY",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4256.png"
+  },
+  {
+    "Isim:": "Voxies",
+    "Sembol": "VOXEL",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/15678.png"
+  },
+  {
+    "Isim:": "FC Porto Fan Token",
+    "Sembol": "PORTO",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/14052.png"
+  },
+  {
+    "Isim:": "Keep3rV1",
+    "Sembol": "KP3R",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7535.png"
+  },
+  {
+    "Isim:": "COTI",
+    "Sembol": "COTI",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3992.png"
+  },
+  {
+    "Isim:": "Beta Finance",
+    "Sembol": "BETA",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11307.png"
+  },
+  {
+    "Isim:": "Convex Finance",
+    "Sembol": "CVX",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9903.png"
+  },
+  {
+    "Isim:": "Pound Sterling",
+    "Sembol": "GBP",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2791.png"
+  },
+  {
+    "Isim:": "Neo",
+    "Sembol": "NEO",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1376.png"
+  },
+  {
+    "Isim:": "Synthetix",
+    "Sembol": "SNX",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2586.png"
+  },
+  {
+    "Isim:": "Mina",
+    "Sembol": "MINA",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8646.png"
+  },
+  {
+    "Isim:": "Helium",
+    "Sembol": "HNT",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5665.png"
+  },
+  {
+    "Isim:": "Quant",
+    "Sembol": "QNT",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3155.png"
+  },
+  {
+    "Isim:": "Kusama",
+    "Sembol": "KSM",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5034.png"
+  },
+  {
+    "Isim:": "Zilliqa",
+    "Sembol": "ZIL",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2469.png"
+  },
+  {
+    "Isim:": "Cartesi",
+    "Sembol": "CTSI",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5444.png"
+  },
+  {
+    "Isim:": "Yield Guild Games",
+    "Sembol": "YGG",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/10688.png"
+  },
+  {
+    "Isim:": "IOST",
+    "Sembol": "IOST",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2405.png"
+  },
+  {
+    "Isim:": "Bluzelle",
+    "Sembol": "BLZ",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2505.png"
+  },
+  {
+    "Isim:": "Highstreet",
+    "Sembol": "HIGH",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11232.png"
+  },
+  {
+    "Isim:": "Serum",
+    "Sembol": "SRM",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6187.png"
+  },
+  {
+    "Isim:": "Alpha Finance Lab",
+    "Sembol": "ALPHA",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7232.png"
+  },
+  {
+    "Isim:": "BitTorrent (New)",
+    "Sembol": "BTTC",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/16086.png"
+  },
+  {
+    "Isim:": "XRPUP",
+    "Sembol": "XRPUP",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7001.png"
+  },
+  {
+    "Isim:": "Linear",
+    "Sembol": "LINA",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7102.png"
+  },
+  {
+    "Isim:": "DODO",
+    "Sembol": "DODO",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7224.png"
+  },
+  {
+    "Isim:": "WAX",
+    "Sembol": "WAXP",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2300.png"
+  },
+  {
+    "Isim:": "yearn.finance",
+    "Sembol": "YFI",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5864.png"
+  },
+  {
+    "Isim:": "Ren",
+    "Sembol": "REN",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2539.png"
+  },
+  {
+    "Isim:": "Reserve Rights",
+    "Sembol": "RSR",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3964.png"
+  },
+  {
+    "Isim:": "Ocean Protocol",
+    "Sembol": "OCEAN",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3911.png"
+  },
+  {
+    "Isim:": "Ankr",
+    "Sembol": "ANKR",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3783.png"
+  },
+  {
+    "Isim:": "Mask Network",
+    "Sembol": "MASK",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8536.png"
+  },
+  {
+    "Isim:": "Horizen",
+    "Sembol": "ZEN",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1698.png"
+  },
+  {
+    "Isim:": "BTCDOWN",
+    "Sembol": "BTCDOWN",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5609.png"
+  },
+  {
+    "Isim:": "Unifi Protocol DAO",
+    "Sembol": "UNFI",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7672.png"
+  },
+  {
+    "Isim:": "ADADOWN",
+    "Sembol": "ADADOWN",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7014.png"
+  },
+  {
+    "Isim:": "Metal",
+    "Sembol": "MTL",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1788.png"
+  },
+  {
+    "Isim:": "TROY",
+    "Sembol": "TROY",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5007.png"
+  },
+  {
+    "Isim:": "Ravencoin",
+    "Sembol": "RVN",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2577.png"
+  },
+  {
+    "Isim:": "Moonbeam",
+    "Sembol": "GLMR",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png"
+  },
+  {
+    "Isim:": "Origin Protocol",
+    "Sembol": "OGN",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5117.png"
+  },
+  {
+    "Isim:": "Litentry",
+    "Sembol": "LIT",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6833.png"
+  },
+  {
+    "Isim:": "Automata Network",
+    "Sembol": "ATA",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/10188.png"
+  },
+  {
+    "Isim:": "LINKDOWN",
+    "Sembol": "LINKDOWN",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7012.png"
+  },
+  {
+    "Isim:": "Stacks",
+    "Sembol": "STX",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4847.png"
+  },
+  {
+    "Isim:": "BakeryToken",
+    "Sembol": "BAKE",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7064.png"
+  },
+  {
+    "Isim:": "Reef",
+    "Sembol": "REEF",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6951.png"
+  },
+  {
+    "Isim:": "Secret",
+    "Sembol": "SCRT",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5604.png"
+  },
+  {
+    "Isim:": "Flux",
+    "Sembol": "FLUX",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3029.png"
+  },
+  {
+    "Isim:": "Moonriver",
+    "Sembol": "MOVR",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9285.png"
+  },
+  {
+    "Isim:": "Livepeer",
+    "Sembol": "LPT",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3640.png"
+  },
+  {
+    "Isim:": "Ampleforth Governance Token",
+    "Sembol": "FORTH",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9421.png"
+  },
+  {
+    "Isim:": "Theta Fuel",
+    "Sembol": "TFUEL",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3822.png"
+  },
+  {
+    "Isim:": "ICON",
+    "Sembol": "ICX",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2099.png"
+  },
+  {
+    "Isim:": "Adventure Gold",
+    "Sembol": "AGLD",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11568.png"
+  },
+  {
+    "Isim:": "Ethernity Chain",
+    "Sembol": "ERN",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8615.png"
+  },
+  {
+    "Isim:": "Band Protocol",
+    "Sembol": "BAND",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4679.png"
+  },
+  {
+    "Isim:": "Radicle",
+    "Sembol": "RAD",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6843.png"
+  },
+  {
+    "Isim:": "Marlin",
+    "Sembol": "POND",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7497.png"
+  },
+  {
+    "Isim:": "WazirX",
+    "Sembol": "WRX",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5161.png"
+  },
+  {
+    "Isim:": "JOE",
+    "Sembol": "JOE",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11396.png"
+  },
+  {
+    "Isim:": "Orchid",
+    "Sembol": "OXT",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5026.png"
+  },
+  {
+    "Isim:": "Siacoin",
+    "Sembol": "SC",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1042.png"
+  },
+  {
+    "Isim:": "SafePal",
+    "Sembol": "SFP",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8119.png"
+  },
+  {
+    "Isim:": "LINKUP",
+    "Sembol": "LINKUP",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7011.png"
+  },
+  {
+    "Isim:": "ETHDOWN",
+    "Sembol": "ETHDOWN",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/10853.png"
+  },
+  {
+    "Isim:": "ADAUP",
+    "Sembol": "ADAUP",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7013.png"
+  },
+  {
+    "Isim:": "SKALE Network",
+    "Sembol": "SKL",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5691.png"
+  },
+  {
+    "Isim:": "BTCUP",
+    "Sembol": "BTCUP",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5608.png"
+  },
+  {
+    "Isim:": "Tranchess",
+    "Sembol": "CHESS",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/10974.png"
+  },
+  {
+    "Isim:": "Phala Network",
+    "Sembol": "PHA",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6841.png"
+  },
+  {
+    "Isim:": "NEM",
+    "Sembol": "XEM",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/873.png"
+  },
+  {
+    "Isim:": "Gitcoin",
+    "Sembol": "GTC",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/10052.png"
+  },
+  {
+    "Isim:": "ETHUP",
+    "Sembol": "ETHUP",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7016.png"
+  },
+  {
+    "Isim:": "Dego Finance",
+    "Sembol": "DEGO",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7087.png"
+  },
+  {
+    "Isim:": "Audius",
+    "Sembol": "AUDIO",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7455.png"
+  },
+  {
+    "Isim:": "Measurable Data Token",
+    "Sembol": "MDT",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2348.png"
+  },
+  {
+    "Isim:": "Numeraire",
+    "Sembol": "NMR",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1732.png"
+  },
+  {
+    "Isim:": "Nano",
+    "Sembol": "NANO",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1567.png"
+  },
+  {
+    "Isim:": "Ambire AdEx",
+    "Sembol": "ADX",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1768.png"
+  },
+  {
+    "Isim:": "DOTUP",
+    "Sembol": "DOTUP",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7003.png"
+  },
+  {
+    "Isim:": "Raydium",
+    "Sembol": "RAY",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8526.png"
+  },
+  {
+    "Isim:": "Venus",
+    "Sembol": "XVS",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7288.png"
+  },
+  {
+    "Isim:": "Illuvium",
+    "Sembol": "ILV",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8719.png"
+  },
+  {
+    "Isim:": "Bonfida",
+    "Sembol": "FIDA",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7978.png"
+  },
+  {
+    "Isim:": "Merit Circle",
+    "Sembol": "MC",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/13523.png"
+  },
+  {
+    "Isim:": "Ellipsis",
+    "Sembol": "EPS",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8938.png"
+  },
+  {
+    "Isim:": "DOTDOWN",
+    "Sembol": "DOTDOWN",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7006.png"
+  },
+  {
+    "Isim:": "DigiByte",
+    "Sembol": "DGB",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/109.png"
+  },
+  {
+    "Isim:": "Amp",
+    "Sembol": "AMP",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6945.png"
+  },
+  {
+    "Isim:": "CertiK",
+    "Sembol": "CTK",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4807.png"
+  },
+  {
+    "Isim:": "BinaryX",
+    "Sembol": "BNX",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9891.png"
+  },
+  {
+    "Isim:": "Bella Protocol",
+    "Sembol": "BEL",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6928.png"
+  },
+  {
+    "Isim:": "0x",
+    "Sembol": "ZRX",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1896.png"
+  },
+  {
+    "Isim:": "Nervos Network",
+    "Sembol": "CKB",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4948.png"
+  },
+  {
+    "Isim:": "Kava Lend",
+    "Sembol": "HARD",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7576.png"
+  },
+  {
+    "Isim:": "Clover Finance",
+    "Sembol": "CLV",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8384.png"
+  },
+  {
+    "Isim:": "Frax Share",
+    "Sembol": "FXS",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6953.png"
+  },
+  {
+    "Isim:": "Mithril",
+    "Sembol": "MITH",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2608.png"
+  },
+  {
+    "Isim:": "Maker",
+    "Sembol": "MKR",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1518.png"
+  },
+  {
+    "Isim:": "Tellor",
+    "Sembol": "TRB",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4944.png"
+  },
+  {
+    "Isim:": "SuperRare",
+    "Sembol": "RARE",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11294.png"
+  },
+  {
+    "Isim:": "Harvest Finance",
+    "Sembol": "FARM",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6859.png"
+  },
+  {
+    "Isim:": "PAX Gold",
+    "Sembol": "PAXG",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4705.png"
+  },
+  {
+    "Isim:": "Bitcoin Standard Hashrate Token",
+    "Sembol": "BTCST",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8891.png"
+  },
+  {
+    "Isim:": "Mdex",
+    "Sembol": "MDX",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8335.png"
+  },
+  {
+    "Isim:": "Gifto",
+    "Sembol": "GTO",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2289.png"
+  },
+  {
+    "Isim:": "Drep [new]",
+    "Sembol": "DREP",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9148.png"
+  },
+  {
+    "Isim:": "StormX",
+    "Sembol": "STMX",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2297.png"
+  },
+  {
+    "Isim:": "BNBDOWN",
+    "Sembol": "BNBDOWN",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7010.png"
+  },
+  {
+    "Isim:": "LTO Network",
+    "Sembol": "LTO",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3714.png"
+  },
+  {
+    "Isim:": "Stafi",
+    "Sembol": "FIS",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5882.png"
+  },
+  {
+    "Isim:": "Manchester City Fan Token",
+    "Sembol": "CITY",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/10049.png"
+  },
+  {
+    "Isim:": "Santos FC Fan Token",
+    "Sembol": "SANTOS",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/15248.png"
+  },
+  {
+    "Isim:": "XTZDOWN",
+    "Sembol": "XTZDOWN",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7008.png"
+  },
+  {
+    "Isim:": "Powerledger",
+    "Sembol": "POWR",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2132.png"
+  },
+  {
+    "Isim:": "Trust Wallet Token",
+    "Sembol": "TWT",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5964.png"
+  },
+  {
+    "Isim:": "Storj",
+    "Sembol": "STORJ",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1772.png"
+  },
+  {
+    "Isim:": "BNBUP",
+    "Sembol": "BNBUP",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7009.png"
+  },
+  {
+    "Isim:": "Selfkey",
+    "Sembol": "KEY",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2398.png"
+  },
+  {
+    "Isim:": "Conflux",
+    "Sembol": "CFX",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7334.png"
+  },
+  {
+    "Isim:": "FIO Protocol",
+    "Sembol": "FIO",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5865.png"
+  },
+  {
+    "Isim:": "Civic",
+    "Sembol": "CVC",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1816.png"
+  },
+  {
+    "Isim:": "Terra Virtua Kolect",
+    "Sembol": "TVK",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8037.png"
+  },
+  {
+    "Isim:": "Hive",
+    "Sembol": "HIVE",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5370.png"
+  },
+  {
+    "Isim:": "iExec RLC",
+    "Sembol": "RLC",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1637.png"
+  },
+  {
+    "Isim:": "VIDT Datalink",
+    "Sembol": "VIDT",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3845.png"
+  },
+  {
+    "Isim:": "Firo",
+    "Sembol": "FIRO",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1414.png"
+  },
+  {
+    "Isim:": "Akropolis",
+    "Sembol": "AKRO",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4134.png"
+  },
+  {
+    "Isim:": "FC Barcelona Fan Token",
+    "Sembol": "BAR",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5225.png"
+  },
+  {
+    "Isim:": "Atletico De Madrid Fan Token",
+    "Sembol": "ATM",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5227.png"
+  },
+  {
+    "Isim:": "Injective",
+    "Sembol": "INJ",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7226.png"
+  },
+  {
+    "Isim:": "Waltonchain",
+    "Sembol": "WTC",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1925.png"
+  },
+  {
+    "Isim:": "BarnBridge",
+    "Sembol": "BOND",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7440.png"
+  },
+  {
+    "Isim:": "Polymath",
+    "Sembol": "POLY",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2496.png"
+  },
+  {
+    "Isim:": "Anchor Protocol",
+    "Sembol": "ANC",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8857.png"
+  },
+  {
+    "Isim:": "Mirror Protocol",
+    "Sembol": "MIR",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7857.png"
+  },
+  {
+    "Isim:": "XTZUP",
+    "Sembol": "XTZUP",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7007.png"
+  },
+  {
+    "Isim:": "BitShares",
+    "Sembol": "BTS",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/463.png"
+  },
+  {
+    "Isim:": "Beam",
+    "Sembol": "BEAM",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3702.png"
+  },
+  {
+    "Isim:": "Anyswap",
+    "Sembol": "ANY",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5892.png"
+  },
+  {
+    "Isim:": "Ardor",
+    "Sembol": "ARDR",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1320.png"
+  },
+  {
+    "Isim:": "TomoChain",
+    "Sembol": "TOMO",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2570.png"
+  },
+  {
+    "Isim:": "ForTube",
+    "Sembol": "FOR",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4118.png"
+  },
+  {
+    "Isim:": "Flamingo",
+    "Sembol": "FLM",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7150.png"
+  },
+  {
+    "Isim:": "DFI.Money",
+    "Sembol": "YFII",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5957.png"
+  },
+  {
+    "Isim:": "Pax Dollar",
+    "Sembol": "USDP",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3330.png"
+  },
+  {
+    "Isim:": "Alpaca Finance",
+    "Sembol": "ALPACA",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8707.png"
+  },
+  {
+    "Isim:": "Juventus Fan Token",
+    "Sembol": "JUV",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5224.png"
+  },
+  {
+    "Isim:": "IRISnet",
+    "Sembol": "IRIS",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3874.png"
+  },
+  {
+    "Isim:": "VeThor Token",
+    "Sembol": "VTHO",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3012.png"
+  },
+  {
+    "Isim:": "Badger DAO",
+    "Sembol": "BADGER",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7859.png"
+  },
+  {
+    "Isim:": "Voyager Token",
+    "Sembol": "VGX",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1817.png"
+  },
+  {
+    "Isim:": "New BitShares",
+    "Sembol": "NBS",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7110.png"
+  },
+  {
+    "Isim:": "Burger Swap",
+    "Sembol": "BURGER",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7158.png"
+  },
+  {
+    "Isim:": "Perpetual Protocol",
+    "Sembol": "PERP",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6950.png"
+  },
+  {
+    "Isim:": "Tribe",
+    "Sembol": "TRIBE",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9025.png"
+  },
+  {
+    "Isim:": "Toko Token",
+    "Sembol": "TKO",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9020.png"
+  },
+  {
+    "Isim:": "LTCDOWN",
+    "Sembol": "LTCDOWN",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7527.png"
+  },
+  {
+    "Isim:": "LTCUP",
+    "Sembol": "LTCUP",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7526.png"
+  },
+  {
+    "Isim:": "pNetwork",
+    "Sembol": "PNT",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5794.png"
+  },
+  {
+    "Isim:": "Stratis",
+    "Sembol": "STRAX",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1343.png"
+  },
+  {
+    "Isim:": "Orion Protocol",
+    "Sembol": "ORN",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5631.png"
+  },
+  {
+    "Isim:": "district0x",
+    "Sembol": "DNT",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1856.png"
+  },
+  {
+    "Isim:": "Frontier",
+    "Sembol": "FRONT",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5893.png"
+  },
+  {
+    "Isim:": "Utrust",
+    "Sembol": "UTK",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2320.png"
+  },
+  {
+    "Isim:": "Streamr",
+    "Sembol": "DATA",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2143.png"
+  },
+  {
+    "Isim:": "FUNToken",
+    "Sembol": "FUN",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1757.png"
+  },
+  {
+    "Isim:": "Balancer",
+    "Sembol": "BAL",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5728.png"
+  },
+  {
+    "Isim:": "VITE",
+    "Sembol": "VITE",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2937.png"
+  },
+  {
+    "Isim:": "Verge",
+    "Sembol": "XVG",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/693.png"
+  },
+  {
+    "Isim:": "AC Milan Fan Token",
+    "Sembol": "ACM",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8538.png"
+  },
+  {
+    "Isim:": "API3",
+    "Sembol": "API3",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7737.png"
+  },
+  {
+    "Isim:": "TrueFi",
+    "Sembol": "TRU",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7725.png"
+  },
+  {
+    "Isim:": "DIA",
+    "Sembol": "DIA",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6138.png"
+  },
+  {
+    "Isim:": "PlayDapp",
+    "Sembol": "PLA",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7461.png"
+  },
+  {
+    "Isim:": "RSK Infrastructure Framework",
+    "Sembol": "RIF",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3701.png"
+  },
+  {
+    "Isim:": "OG Fan Token",
+    "Sembol": "OG",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5309.png"
+  },
+  {
+    "Isim:": "UMA",
+    "Sembol": "UMA",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5617.png"
+  },
+  {
+    "Isim:": "Polkastarter",
+    "Sembol": "POLS",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7208.png"
+  },
+  {
+    "Isim:": "FILUP",
+    "Sembol": "FILUP",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8050.png"
+  },
+  {
+    "Isim:": "Augur",
+    "Sembol": "REP",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1104.png"
+  },
+  {
+    "Isim:": "Wing Finance",
+    "Sembol": "WING",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7048.png"
+  },
+  {
+    "Isim:": "FILDOWN",
+    "Sembol": "FILDOWN",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8051.png"
+  },
+  {
+    "Isim:": "Alchemix",
+    "Sembol": "ALCX",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8613.png"
+  },
+  {
+    "Isim:": "MANTRA DAO",
+    "Sembol": "OM",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6536.png"
+  },
+  {
+    "Isim:": "Standard Tokenization Protocol",
+    "Sembol": "STPT",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4006.png"
+  },
+  {
+    "Isim:": "Auto",
+    "Sembol": "AUTO",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8387.png"
+  },
+  {
+    "Isim:": "RAMP",
+    "Sembol": "RAMP",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7463.png"
+  },
+  {
+    "Isim:": "Decred",
+    "Sembol": "DCR",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1168.png"
+  },
+  {
+    "Isim:": "Pundi X (New)",
+    "Sembol": "PUNDIX",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9040.png"
+  },
+  {
+    "Isim:": "Travala.com",
+    "Sembol": "AVA",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2776.png"
+  },
+  {
+    "Isim:": "DeXe",
+    "Sembol": "DEXE",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7326.png"
+  },
+  {
+    "Isim:": "Dock",
+    "Sembol": "DOCK",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2675.png"
+  },
+  {
+    "Isim:": "QuickSwap",
+    "Sembol": "QUICK",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8206.png"
+  },
+  {
+    "Isim:": "PERL.eco",
+    "Sembol": "PERL",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4293.png"
+  },
+  {
+    "Isim:": "aelf",
+    "Sembol": "ELF",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2299.png"
+  },
+  {
+    "Isim:": "Ontology Gas",
+    "Sembol": "ONG",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3217.png"
+  },
+  {
+    "Isim:": "AS Roma Fan Token",
+    "Sembol": "ASR",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5229.png"
+  },
+  {
+    "Isim:": "TRXDOWN",
+    "Sembol": "TRXDOWN",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7004.png"
+  },
+  {
+    "Isim:": "Hifi Finance",
+    "Sembol": "MFT",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2896.png"
+  },
+  {
+    "Isim:": "Bitcoin Gold",
+    "Sembol": "BTG",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2083.png"
+  },
+  {
+    "Isim:": "Wanchain",
+    "Sembol": "WAN",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2606.png"
+  },
+  {
+    "Isim:": "Tornado Cash",
+    "Sembol": "TORN",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8049.png"
+  },
+  {
+    "Isim:": "Aavegotchi",
+    "Sembol": "GHST",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7046.png"
+  },
+  {
+    "Isim:": "Wrapped NXM",
+    "Sembol": "WNXM",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5939.png"
+  },
+  {
+    "Isim:": "Lisk",
+    "Sembol": "LSK",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1214.png"
+  },
+  {
+    "Isim:": "TokenClub",
+    "Sembol": "TCT",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2364.png"
+  },
+  {
+    "Isim:": "Rari Governance Token",
+    "Sembol": "RGT",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7486.png"
+  },
+  {
+    "Isim:": "MovieBloc",
+    "Sembol": "MBL",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4038.png"
+  },
+  {
+    "Isim:": "PowerPool",
+    "Sembol": "CVP",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6669.png"
+  },
+  {
+    "Isim:": "BCHDOWN",
+    "Sembol": "BCHDOWN",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7523.png"
+  },
+  {
+    "Isim:": "Bounce Finance Governance Token",
+    "Sembol": "AUCTION",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8602.png"
+  },
+  {
+    "Isim:": "Bancor",
+    "Sembol": "BNT",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1727.png"
+  },
+  {
+    "Isim:": "Komodo",
+    "Sembol": "KMD",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1521.png"
+  },
+  {
+    "Isim:": "dForce",
+    "Sembol": "DF",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4758.png"
+  },
+  {
+    "Isim:": "Gnosis",
+    "Sembol": "GNO",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1659.png"
+  },
+  {
+    "Isim:": "Enzyme",
+    "Sembol": "MLN",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1552.png"
+  },
+  {
+    "Isim:": "USDT",
+    "Sembol": "USDT",
+    "Img": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+  }
+]
